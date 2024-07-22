@@ -1,3 +1,4 @@
+andrea
 2024-07-18 13:54:53,322 | Config file location: /home/andrea/Desktop/Projects-Bitcot/proposal-creator/propinsight.ai/samconfig.toml
 2024-07-18 13:54:53,322 | Loading configuration values from [default.['build'].parameters] (env.command_name.section) in config file at '/home/andrea/Desktop/Projects-Bitcot/proposal-creator/propinsight.ai/samconfig.toml'...
 2024-07-18 13:54:53,322 | Configuration values successfully loaded.
